@@ -7,8 +7,12 @@
 - 「填写信息（选填）」：填写姓名、学院、班级，祝福语会随之生成
 - 「编辑祝福」「分享」：修改祝福语，并复制带内容的链接
 
+## 在线查看
+
+https://tly43520-create.github.io/uestc70-greeting-card/
+
 ## 使用
 
-用浏览器直接打开 `index.html` 即可，无需安装任何东西。默认祝福语在 `index.html` 脚本开头的 `CONFIG` 中修改。
+在线打开上面的网址，或用浏览器直接打开 `index.html`，无需安装任何东西。默认祝福语在 `index.html` 脚本开头的 `CONFIG` 中修改。
 
 由王志诚使用 Claude Opus 5.5 制作
